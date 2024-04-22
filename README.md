@@ -25,9 +25,9 @@ Check the equality.
 
 # PROGRAM:
 
-Developed by : Vinush.cv
+Developed by : SACHIN C
 
-Reg no: 212222230176
+Reg no: 212222230125
 
 ```c#
 using System;
