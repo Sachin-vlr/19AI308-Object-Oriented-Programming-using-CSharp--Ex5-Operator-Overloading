@@ -90,7 +90,7 @@ class Program
 
 # OUTPUT:
 
-![alt text](image.png)
+![image](https://github.com/Sachin-vlr/19AI308-Object-Oriented-Programming-using-CSharp--Ex5-Operator-Overloading/assets/113497666/5141b341-2423-4e4a-b7b2-94828118cd42)
 
 # RESULT:
 
